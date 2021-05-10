@@ -42,3 +42,12 @@ node index.js
 ## Installation
 
 Firstly, install 'npm init' which will initialise the package JSON. Next, install dependencies inquirer, fs (file system) and jest packages.
+
+## App screenshot
+
+![screenshot](https://user-images.githubusercontent.com/16859648/117635541-7c249780-b1b2-11eb-8691-75b1fb824d5e.png)
+
+
+## App demo
+
+
