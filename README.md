@@ -50,4 +50,5 @@ Firstly, install 'npm init' which will initialise the package JSON. Next, instal
 
 ## App demo
 
+![app-demo](https://user-images.githubusercontent.com/16859648/117636030-fb19d000-b1b2-11eb-9fea-8fd2a5e7dbb7.gif)
 
